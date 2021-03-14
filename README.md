@@ -7,6 +7,7 @@
 |[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
 |[Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N)| |
 |[Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt-F16/)| |
+|[Optimization Algorithms](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)| |
 |[Combinatorial Optimization](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| :o: |
@@ -62,11 +63,17 @@
 | ------- | ---- |
 |[Getting up to Speed in Biology](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/)| |
 
+| Psychology | Done |
+| ---------- | ---- |
+|[PSYC 200](https://www.youtube.com/playlist?list=PLVHY3HvnI6yMIotukmARTlrCk2q8RXCHg)| |
+|[Personality and Its Transformations](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)| |
+|[Introduction to Psychology](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/)| |
+|[Introduction to Psychology with Paul Bloom](https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F)| |
 
 | Computers | Done |
 | --------- | ---- |
 |[Modern C++](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)| |
-|[Monday Morning Haskell](https://mmhaskell.com/)| |
+|[Learn You a Haskell](http://learnyouahaskell.com/)| |
 |[Low Level Academy](https://lowlvl.org/)| |
 |[Learn Git Branching](https://learngitbranching.js.org/)| |
 |[RegexOne](https://regexone.com/)| |
